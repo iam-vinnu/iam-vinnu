@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I’m currently working on something cool 😉<br>🌱  I’m currently learning Flutter, Go<br>💬  Ask me about anything related to Javascript/Typescript/React/Express<br>👨‍💻  Reach to me   binaybehera101@gmail.com<br>⚡  Fun fact: I ❤️ 🐶
+🔭  I’m currently working on something cool 😉<br>🌱  I’m currently learning React Native, Go<br>💬  Ask me about anything related to Javascript/Typescript/React/Express<br>👨‍💻  Reach to me   binaybehera101@gmail.com<br>⚡  Fun fact: I ❤️ 🐶
 
 
 ## 🌐 Socials:
